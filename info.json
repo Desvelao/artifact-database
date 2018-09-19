@@ -1,0 +1,10 @@
+{
+  "sets_id" : ["starter"],
+  "sets_localiced" : {
+    "en" : ["1 - Starter"],
+    "es" : []
+  },
+  "assets" : {
+    "card_types" : [""]
+  }
+}

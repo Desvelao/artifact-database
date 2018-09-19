@@ -4,7 +4,6 @@
   "alias" : ["1 set"],
   "name_id" : "starter",
   "description" : "First set",
-  "order" : 1,
   "launched" : "28/11/18",
   "image" : "logo.jpg",
   "cards" : [
