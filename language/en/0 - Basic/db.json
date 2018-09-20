@@ -2,6 +2,7 @@
   "name" : "Basic",
   "symbol" : "B",
   "alias" : [],
+  "order" : "0",
   "name_id" : "basic",
   "description" : "Basic set",
   "launched" : "28/11/18",

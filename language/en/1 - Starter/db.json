@@ -2,6 +2,7 @@
   "name" : "Starter",
   "symbol" : "S",
   "alias" : ["1 set"],
+  "order" : "1",
   "name_id" : "starter",
   "description" : "First set",
   "launched" : "28/11/18",
@@ -159,7 +160,7 @@
     {"id" : "", "name" : "Barbed mail", "alias" : [], "type" : 6, "skills" : [], "text" : "Equipped hero has +1 Armor and +2 Retaliate.", "manacost" : 0, "goldcost" : 6, "color" : "y", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "c", "signature" : "", "signaturefor" : "", "image" : "barbed-mail.png"},
     {"id" : "", "name" : "Obliterating Orb", "alias" : [], "type" : 8, "skills" : [], "text" : "Condemn an improvement.", "manacost" : 0, "goldcost" : 10, "color" : "y", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : "", "image" : "obliterating-orb.jpg"},
     {"id" : "", "name" : "Vhoul Martyr", "alias" : [], "type" : 2, "skills" : [], "text" : "Death Effect: Modify allies with +1 Attack and +1 Health.", "manacost" : 2, "goldcost" : 0, "color" : "g", "attack" : 2, "armor" : 0, "health" : 2, "rarity" : "c", "signature" : "", "signaturefor" : "", "image" : "vhoul-martyr.jpg"},
-    {"id" : "", "name" : "Chain Frost", "alias" : [], "type" : 3, "skills" : [], "text" : "Deal 3 damage to a unit. Repeat 7 times: 🔄 Deal 3 damage to a random unit to its left or right.\nGet initiative.", "manacost" : 7, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "", "signaturefor" : "", "image" : "chain-frost.jpg"},
+    {"id" : "", "name" : "Chain Frost", "alias" : [], "type" : 3, "skills" : [], "text" : "Deal 3 damage to a unit. Repeat 7 times: 🔄 Deal 3 damage to a random unit to its left or right.\nGet initiative.", "manacost" : 7, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "", "signaturefor" : "Lich", "image" : "chain-frost.jpg"},
     {"id" : "", "name" : "", "alias" : [], "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : "", "image" : ""}
   ]
 }
