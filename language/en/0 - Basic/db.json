@@ -8,9 +8,9 @@
   "launched" : "28/11/18",
   "image" : "logo.jpg",
   "cards" : [
-    {"id" : "", "name" : "Melee Creep Radiant", "alias" : ["Radiant Creep"], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "melee-creep-radiant.jpg"},
-    {"id" : "", "name" : "Melee Creep Dire", "alias" : ["Dire Creep"], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "melee-creep-dire.jpg"},
-    {"id" : "", "name" : "Zombie", "alias" : [], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "zombie.jpg"},
+    {"id" : "melee-creep-radiant", "name" : "Melee Creep Radiant", "alias" : ["Radiant Creep"], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "melee-creep-radiant.jpg"},
+    {"id" : "melee-creep-dire", "name" : "Melee Creep Dire", "alias" : ["Dire Creep"], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "melee-creep-dire.jpg"},
+    {"id" : "zombie", "name" : "Zombie", "alias" : [], "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "b", "signature" : "", "signaturefor" : "", "image" : "zombie.jpg"},
     {"id" : "", "name" : "", "alias" : [], "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : "", "image" : ""}
   ]
 }
