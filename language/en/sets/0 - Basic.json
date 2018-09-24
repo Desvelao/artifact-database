@@ -11,6 +11,7 @@
     "Melee Creep Radiant" : {"id" : "melee-creep-radiant", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "Melee Creep Dire" : {"id" : "melee-creep-dire", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "Zombie" : {"id" : "zombie", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "b", "signature" : "", "signaturefor" : ""},
+    "Hound of War" : {"id" : "hound-of-war", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 2, "armor" : 0, "health" : 1, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""}
     }
 }
