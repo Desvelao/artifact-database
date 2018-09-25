@@ -1,8 +1,10 @@
 {
-  "sets_id" : ["starter"],
   "sets_localiced" : {
-    "en" : ["0 - Basic","1 - Starter"],
-    "es" : []
+    "en" : {
+      "0" : "Basic",
+      "1" : "Call to Arms"
+    },
+    "es" : {}
   },
   "assets" : {
     "card_types" : [""]
