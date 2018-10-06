@@ -13,6 +13,7 @@
     "Zombie" : {"id" : "zombie", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 2, "armor" : 0, "health" : 2, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "Hound of War" : {"id" : "hound-of-war", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 2, "armor" : 0, "health" : 1, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "Roseleaf Wall" : {"id" : "Roseleaf-wall", "type" : 2, "skills" : [], "text" : "", "manacost" : 3, "goldcost" : 0, "color" : "g", "attack" : 0, "armor" : 0, "health" : 8, "rarity" : "b", "signature" : "", "signaturefor" : ""},
+    "Loyal Beast" : {"id" : "loyal-beast", "type" : 1, "skills" : [], "text" : "When Loyal Beast deals battle damage to a unit, modify that unit with -1 Attack.", "manacost" : 3, "goldcost" : 0, "color" : "r", "attack" : 3, "armor" : 1, "health" : 03, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""}
     }
 }
