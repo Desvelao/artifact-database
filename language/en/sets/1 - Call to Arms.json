@@ -1,11 +1,10 @@
 {
   "name" : "Call to Arms",
   "symbol" : "CTA",
-  "alias" : [],
-  "order" : "1",
+  "order" : 1,
   "name_id" : "call-to-arms",
   "description" : "First set",
-  "launched" : "28/11/18",
+  "releaseDate" : "2018-11-28T00:00:00",
   "cards" : {
     "Axe" : {"id" : "axe", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "r", "attack" : 7, "armor" : 2, "health" : 11, "rarity" : "r", "signature" : "Berserker's Call", "signaturefor" : ""},
     "Berserker's Call" : {"id" : "berserkers-call", "type" : 3, "skills" : [], "text" : "Choose an allied red hero. It battles its enemy neighbors.", "manacost" : 6, "goldcost" : 0, "color" : "r", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "", "signaturefor" : "Axe"},
@@ -18,7 +17,7 @@
     "Pugna" : {"id" : "pugna", "type" : 1, "skills" : [{"name" : "Nether Blast", "type" : 1, "cooldown" : 3, "text" : "Condemn a random enemy improvement."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "r", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "Nether Ward", "signaturefor" : ""},
     "Nether Ward" : {"id" : "nether-ward", "type" : 3, "skills" : [], "text" : "After opponent plays a spell, deal 3 damage to the enemy tower.", "manacost" : 0, "goldcost" : 0, "color" : "r", "attack" : 6, "armor" : 0, "health" : 9, "rarity" : "r", "signature" : "", "signaturefor" : "Pugna"},
     "Crystal Maiden" : {"id" : "crystal-maiden", "type" : 1, "skills" : [{"name" : "Arcane Aura", "type" : 2, "cooldown" : 0, "text" : "After the first time an allied spell is played in each lane, restore 2 Mana to the tower in that lane."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "u", "attack" : 2, "armor" : 0, "health" : 5, "rarity" : "c", "signature" : "Frostbite", "signaturefor" : ""},
-    "Frostbite" : {"id" : "frostbite", "type" : 3, "skills" : [], "text" : "Deal 2 damage to a unit and disarm it this round.", "manacost" : 4, "goldcost" : 0, "color" : "u", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "c", "signature" : "", "signaturefor" : "Crystal Maiden"},
+    "Frostbite" : {"id" : "frostbite", "type" : 3, "skills" : [], "text" : "Deal 2 damage to a unit and disarm it this round.", "manacost" : 3, "goldcost" : 0, "color" : "u", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "c", "signature" : "", "signaturefor" : "Crystal Maiden"},
     "Earthshaker" : {"id" : "earthshaker", "type" : 1, "skills" : [{"name" : "Fissure", "type" : 1, "cooldown" : 4, "text" : "Stun Earthshaker's enemy neighbors this round."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "r", "attack" : 2, "armor" : 0, "health" : 7, "rarity" : "r", "signature" : "Echo Slam", "signaturefor" : ""},
     "Echo Slam" : {"id" : "echo-slam", "type" : 3, "skills" : [], "text" : "Deal damage to each enemy equal to the number of enemies.", "manacost" : 7, "goldcost" : 0, "color" : "u", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "", "signaturefor" : "Earthshaker"},
     "J'Muy the Wise" : {"id" : "jmuy-the-wise", "type" : 1, "skills" : [{"name" : "Wisdom of the Elders", "type" : 1, "cooldown" : 4, "text" : "Draw a card."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "u", "attack" : 3, "armor" : 0, "health" : 8, "rarity" : "b", "signature" : "Battlefield Control", "signaturefor" : ""},
@@ -116,7 +115,7 @@
     "Assassinate" : {"id" : "assassinate", "type" : 3, "skills" : [], "text" : "Deal 10 piercing damage to a unit in any lane.", "manacost" : 7, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : "Sniper"},
     "Bloodseeker" : {"id" : "bloodseeker", "type" : 1, "skills" : [{"name" : "Blooth Bath", "type" : 2, "cooldown" : 0, "text" : "Fully heal Bloodseeker after a unit blocking it dies."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 7, "armor" : 0, "health" : 6, "rarity" : "c", "signature" : "Blood Rage", "signaturefor" : ""},
     "Lich" : {"id" : "lich", "type" : 1, "skills" : [{"name" : "Sacrifice", "type" : 1, "cooldown" : 2, "text" : "Condemn another ally and draw a card. If that ally has 6 or more Attack, draw an extra card."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 5, "armor" : 0, "health" : 9, "rarity" : "", "signature" : "", "signaturefor" : ""},
-    "Lion" : {"id" : "lion", "type" : 1, "skills" : [{"name" : "Unknown", "type" : 3, "cooldown" : 0, "text" : "Unknown effect"}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 6, "armor" : 0, "health" : 5, "rarity" : "c", "signature" : "Mana Drain", "signaturefor" : ""},
+    "Lion" : {"id" : "lion", "type" : 1, "skills" : [{"name" : "Finger of Death", "type" : 1, "cooldown" : 4, "text" : "Deal 8 piercing damage to a unit."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 6, "armor" : 0, "health" : 5, "rarity" : "c", "signature" : "Mana Drain", "signaturefor" : ""},
     "Mana Drain" : {"id" : "mana-drain", "type" : 3, "skills" : [], "text" : "Give the enemy tower -2 Mana this round and give your tower +2 Mana this round.", "manacost" : 2, "goldcost" : 0, "color" : "c", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "c", "signature" : "", "signaturefor" : "Lion"},
     "Ravenhook" : {"id" : "ravenhook", "type" : 2, "skills" : [{"name" : "Repossess", "type" : 2, "cooldown" : 0, "text" : "Condemn a random item equipped by the unit blocking Ravenhook, get gold equal to the base cost of that item."}], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "b", "attack" : 3, "armor" : 0, "health" : 6, "rarity" : "", "signature" : "", "signaturefor" : ""},
     "Trebuchets" : {"id" : "trebuchets", "type" : 4, "skills" : [], "text" : "Deal 2 piercing damage to the enemy tower before the action phase.", "manacost" : 1, "goldcost" : 0, "color" : "b", "attack" : 6, "armor" : 0, "health" : 6, "rarity" : "", "signature" : "", "signaturefor" : ""},
@@ -244,9 +243,9 @@
     "Cloak of Endless Carnage" : {"id" : "cloak-of-endless-carnage", "type" : 7, "skills" : [], "text" : "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.", "manacost" : 0, "goldcost" : 13, "color" : "y", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "r", "signature" : "", "signaturefor" : ""},
     "Keenfolk Turret" : {"id" : "keenfolk-turret", "type" : 4, "skills" : [{"name" : "", "type" : 1, "cooldown" : 1, "text" : "Deal 2 piercing damage to a unit."}], "text" : "", "manacost" : 4, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : ""},
     "The Omexe Arena" : {"id" : "the-omexe-arena", "type" : 4, "skills" : [], "text" : "Draw a card after a hero dies.", "manacost" : 6, "goldcost" : 0, "color" : "r", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : ""},
-    "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""},
-    "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""},
-    "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""},
+    "Lightning Strike" : {"id" : "lightning-strike", "type" : 3, "skills" : [], "text" : "Deal 6 damage to the enemy tower.", "manacost" : 2, "goldcost" : 0, "color" : "u", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "c", "signature" : "", "signaturefor" : ""},
+    "Rend Armor" : {"id" : "rend-armor", "type" : 3, "skills" : [], "text" : "Modify a unit with -X Armor where X is its Armor.", "manacost" : 3, "goldcost" : 0, "color" : "r", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : ""},
+    "Forward Charge" : {"id" : "forward-charge", "type" : 3, "skills" : [], "text" : "Give allies +2 Siege this round. Allies change their combat target to the unit or tower across from them.", "manacost" : 3, "goldcost" : 0, "color" : "b", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "u", "signature" : "", "signaturefor" : ""},
     "" : {"id" : "", "type" : 1, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 0, "armor" : 0, "health" : 0, "rarity" : "", "signature" : "", "signaturefor" : ""}
   }
 }

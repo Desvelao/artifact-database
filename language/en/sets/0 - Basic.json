@@ -1,11 +1,10 @@
 {
   "name" : "Basic",
   "symbol" : "B",
-  "alias" : [],
-  "order" : "0",
+  "order" : 0,
   "name_id" : "basic",
   "description" : "Basic set",
-  "launched" : "28/11/18",
+  "releaseDate" : "2018-11-28T00:00:00",
   "cards" : {
     "Melee Creep Radiant" : {"id" : "melee-creep-radiant", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : ""},
     "Melee Creep Dire" : {"id" : "melee-creep-dire", "type" : 2, "skills" : [], "text" : "", "manacost" : 0, "goldcost" : 0, "color" : "", "attack" : 2, "armor" : 0, "health" : 4, "rarity" : "b", "signature" : "", "signaturefor" : ""},
