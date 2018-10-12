@@ -1,0 +1,16 @@
+{
+  "name": "Intimidation",
+  "id": "intimidation",
+  "type": 3,
+  "skills": [],
+  "text": "Move a unit to a random other lane.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

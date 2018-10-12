@@ -1,0 +1,16 @@
+{
+  "name": "Trebuchets",
+  "id": "trebuchets",
+  "type": 4,
+  "skills": [],
+  "text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 6,
+  "armor": 0,
+  "health": 6,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

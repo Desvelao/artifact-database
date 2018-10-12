@@ -1,0 +1,16 @@
+{
+  "name": "Untested Grunt",
+  "id": "untested-grunt",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 4,
+  "armor": 0,
+  "health": 2,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

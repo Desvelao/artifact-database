@@ -1,0 +1,16 @@
+{
+  "name": "Payday",
+  "id": "payday",
+  "type": 3,
+  "skills": [],
+  "text": "Double your gold.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Winter Wyvern",
+  "id": "winter-wyvern",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Artic Burn",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Move Winter Wyvern to an empty combat position and give it +4 Attack this round."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 6,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "Winter's Curse",
+  "signaturefor": ""
+}

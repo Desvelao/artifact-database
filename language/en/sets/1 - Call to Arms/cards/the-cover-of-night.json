@@ -1,0 +1,16 @@
+{
+  "name": "The Cover of Night",
+  "id": "the-cover-of-night",
+  "type": 3,
+  "skills": [],
+  "text": "Move an allied black hero to another lane. Give that hero +4 attack and +7 Siege until end of its next combat phase.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

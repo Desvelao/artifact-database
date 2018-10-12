@@ -1,0 +1,23 @@
+{
+  "name": "Treant Protector",
+  "id": "treant-protector",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Branches of Iron",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Treant Protector's allied neighbors have +2 Armor."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 10,
+  "rarity": "c",
+  "signature": "Roseleaf Druid",
+  "signaturefor": ""
+}

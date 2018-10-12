@@ -1,0 +1,16 @@
+{
+  "name": "Path of the Dreamer",
+  "id": "path-of-the-dreamer",
+  "type": 4,
+  "skills": [],
+  "text": "After you play a green card, give your tower +3 Regeneration until end of round.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Fahrvhan the Dreamer",
+  "id": "fahrvhan-the-dreamer",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Pack Leadership",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Fahrvhan the Dreamer's allied neighbors have +1 Armor."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 11,
+  "rarity": "b",
+  "signature": "Prowler Vanguard",
+  "signaturefor": ""
+}

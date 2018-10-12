@@ -1,0 +1,16 @@
+{
+  "name": "Blade of the Vigil",
+  "id": "blade-of-the-vigil",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack and +2 Cleave.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

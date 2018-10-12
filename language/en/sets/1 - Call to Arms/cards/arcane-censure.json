@@ -1,0 +1,16 @@
+{
+  "name": "Arcane Censure",
+  "id": "arcane-censure",
+  "type": 3,
+  "skills": [],
+  "text": "Modify the enemy tower with -1 Mana.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

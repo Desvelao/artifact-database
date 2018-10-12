@@ -1,0 +1,16 @@
+{
+  "name": "Smeevil Blacksmith",
+  "id": "smeevil-blacksmith",
+  "type": 2,
+  "skills": [],
+  "text": "Play Effect: Modify a random allied hero with +1 Armor.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 2,
+  "armor": 0,
+  "health": 2,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

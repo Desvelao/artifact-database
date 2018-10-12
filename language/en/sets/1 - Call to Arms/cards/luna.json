@@ -1,0 +1,23 @@
+{
+  "name": "Luna",
+  "id": "luna",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Lucent Beam",
+      "type": 4,
+      "cooldown": 0,
+      "text": "Before the action phase, deal 1 piercing damage to a random enemy and add a charge to each Eclipse card in your hand or deck."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 3,
+  "armor": 0,
+  "health": 8,
+  "rarity": "c",
+  "signature": "Eclipse",
+  "signaturefor": ""
+}

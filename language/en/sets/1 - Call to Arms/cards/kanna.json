@@ -1,0 +1,23 @@
+{
+  "name": "Kanna",
+  "id": "kanna",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Bringer of the Conquest",
+      "type": 3,
+      "cooldown": 0,
+      "text": "The random allied Melee Creeps are deployed into Kanna's Lane."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 2,
+  "armor": 0,
+  "health": 12,
+  "rarity": "r",
+  "signature": "Prey On the Weak",
+  "signaturefor": ""
+}

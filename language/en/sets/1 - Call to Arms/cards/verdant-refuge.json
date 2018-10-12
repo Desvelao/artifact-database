@@ -1,0 +1,16 @@
+{
+  "name": "Verdant Refuge",
+  "id": "verdant-refuge",
+  "type": 4,
+  "skills": [],
+  "text": "Allies have +1 Armor.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Enchantress"
+}

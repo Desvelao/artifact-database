@@ -1,0 +1,16 @@
+{
+  "name": "Path of the Bold",
+  "id": "path-of-the-bold",
+  "type": 4,
+  "skills": [],
+  "text": "After you play a red card, modify a random ally with +1 Attack.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

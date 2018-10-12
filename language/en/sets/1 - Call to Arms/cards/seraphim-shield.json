@@ -1,0 +1,16 @@
+{
+  "name": "Seraphim Shield",
+  "id": "seraphim-shield",
+  "type": 6,
+  "skills": [],
+  "text": "Equipped hero has +2 Armor. All units have -2 Attack.",
+  "manacost": 0,
+  "goldcost": 13,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

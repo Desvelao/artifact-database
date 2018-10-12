@@ -1,0 +1,16 @@
+{
+  "name": "Prey On the Weak",
+  "id": "prey-on-the-weak",
+  "type": 3,
+  "skills": [],
+  "text": "Summon a Hound of War for every damaged unit.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Kanna"
+}

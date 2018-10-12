@@ -1,0 +1,23 @@
+{
+  "name": "Centaur Warrunner",
+  "id": "centaur-warrunner",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Return",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Centaur Warrunner has +2 Retaliate."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 0,
+  "health": 14,
+  "rarity": "r",
+  "signature": "Double Edge",
+  "signaturefor": ""
+}

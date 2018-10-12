@@ -1,0 +1,23 @@
+{
+  "name": "Bristleback",
+  "id": "bristleback",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Barroom Brawler",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Modify Bristleback with +2 Armor after a hero blocking it dies."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 8,
+  "armor": 0,
+  "health": 12,
+  "rarity": "c",
+  "signature": "Viscous Nasal Goo",
+  "signaturefor": ""
+}

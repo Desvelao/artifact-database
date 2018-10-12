@@ -1,0 +1,23 @@
+{
+  "name": "Ravenous Mass",
+  "id": "ravenous-mass",
+  "type": 2,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Condemn Ravenous Mass's allied neighbors. Modify Ravenous Mass with their Attack and Health."
+    }
+  ],
+  "text": "",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 1,
+  "armor": 0,
+  "health": 1,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Dark Seer",
+  "id": "dark-seer",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Surge",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Move another ally to another lane."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 5,
+  "armor": 0,
+  "health": 9,
+  "rarity": "c",
+  "signature": "Ion Shell",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Necrophos",
+  "id": "necrophos",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Sadist",
+      "type": 4,
+      "cooldown": 0,
+      "text": "Modify Necrophos with +1 Health after an enemy neighbor dies."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 5,
+  "armor": 0,
+  "health": 6,
+  "rarity": "c",
+  "signature": "Heartstopper Aura",
+  "signaturefor": ""
+}

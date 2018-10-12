@@ -1,0 +1,16 @@
+{
+  "name": "Coordinated Assault",
+  "id": "coordinated-assault",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a black hero with \"After you play a black card, give this hero and its allied neighbors +2 Attack this round.\"",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

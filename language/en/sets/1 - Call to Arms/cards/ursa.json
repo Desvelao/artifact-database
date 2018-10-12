@@ -1,0 +1,23 @@
+{
+  "name": "Ursa",
+  "id": "ursa",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Fury Swipes",
+      "type": 2,
+      "cooldown": 0,
+      "text": "When Ursa deals battle damage to a unit, modify that unit with -1 Armor."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "",
+  "attack": 7,
+  "armor": 0,
+  "health": 10,
+  "rarity": "c",
+  "signature": "Enrage",
+  "signaturefor": ""
+}

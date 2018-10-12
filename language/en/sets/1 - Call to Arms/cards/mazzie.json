@@ -1,0 +1,16 @@
+{
+  "name": "Mazzie",
+  "id": "mazzie",
+  "type": 1,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 6,
+  "armor": 3,
+  "health": 6,
+  "rarity": "r",
+  "signature": "Steel Reinforcement",
+  "signaturefor": ""
+}

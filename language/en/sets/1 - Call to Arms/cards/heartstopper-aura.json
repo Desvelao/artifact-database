@@ -1,0 +1,16 @@
+{
+  "name": "Heartstopper Aura",
+  "id": "heartstopper-aura",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a black hero with \"Deal 2 piercing damage to this hero's enemy neighbors before the action phase.\"",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Necrophos"
+}

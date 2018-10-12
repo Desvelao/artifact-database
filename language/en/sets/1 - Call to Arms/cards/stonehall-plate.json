@@ -1,0 +1,16 @@
+{
+  "name": "Stonehall Plate",
+  "id": "stonehall-plate",
+  "type": 6,
+  "skills": [],
+  "text": "Equipped hero has +1 Armor. Modify Stonehall Plate with \"Equipped hero has +1 Armor\" after the combat phase.",
+  "manacost": 0,
+  "goldcost": 6,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

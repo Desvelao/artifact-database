@@ -1,0 +1,23 @@
+{
+  "name": "Omniknight",
+  "id": "omniknight",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Purification",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Heal a unit 3."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 5,
+  "armor": 0,
+  "health": 12,
+  "rarity": "r",
+  "signature": "Allseeing One's Favor",
+  "signaturefor": ""
+}

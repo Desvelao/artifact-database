@@ -1,0 +1,16 @@
+{
+  "name": "Viscous Nasal Goo",
+  "id": "viscous-nasal-goo",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a unit with -2 Armor.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Bristleback"
+}

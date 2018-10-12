@@ -1,0 +1,23 @@
+{
+  "name": "Keenfolk Turret",
+  "id": "keenfolk-turret",
+  "type": 4,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Deal 2 piercing damage to a unit."
+    }
+  ],
+  "text": "",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

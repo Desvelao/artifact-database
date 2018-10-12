@@ -1,0 +1,16 @@
+{
+  "name": "Centaur Hunter",
+  "id": "centaur-hunter",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 0,
+  "health": 8,
+  "rarity": "5",
+  "signature": "",
+  "signaturefor": ""
+}

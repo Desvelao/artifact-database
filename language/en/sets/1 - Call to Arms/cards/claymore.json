@@ -1,0 +1,16 @@
+{
+  "name": "Claymore",
+  "id": "claymore",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +8 Attack.",
+  "manacost": 0,
+  "goldcost": 15,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

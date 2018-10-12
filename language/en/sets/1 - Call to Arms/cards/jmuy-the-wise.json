@@ -1,0 +1,23 @@
+{
+  "name": "J'Muy the Wise",
+  "id": "jmuy-the-wise",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Wisdom of the Elders",
+      "type": 1,
+      "cooldown": 4,
+      "text": "Draw a card."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 3,
+  "armor": 0,
+  "health": 8,
+  "rarity": "b",
+  "signature": "Battlefield Control",
+  "signaturefor": ""
+}

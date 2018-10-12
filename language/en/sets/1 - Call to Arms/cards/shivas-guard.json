@@ -1,0 +1,23 @@
+{
+  "name": "Shiva's Guard",
+  "id": "shivas-guard",
+  "type": 6,
+  "skills": [
+    {
+      "name": "Artic Blast",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Modify a unit and its allied neighbors with -2 Attack."
+    }
+  ],
+  "text": "Equipped hero has +2 Armor",
+  "manacost": 0,
+  "goldcost": 16,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

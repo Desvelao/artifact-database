@@ -1,0 +1,16 @@
+{
+  "name": "Cloak of Endless Carnage",
+  "id": "cloak-of-endless-carnage",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
+  "manacost": 0,
+  "goldcost": 13,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

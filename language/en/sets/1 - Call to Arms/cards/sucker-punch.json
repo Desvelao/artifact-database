@@ -1,0 +1,16 @@
+{
+  "name": "Sucker Punch",
+  "id": "sucker-punch",
+  "type": 3,
+  "skills": [],
+  "text": "Stun a unit blocking an allied red hero this round. Deal 2 damage to that unit.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

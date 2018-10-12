@@ -1,0 +1,16 @@
+{
+  "name": "Loyal Beast",
+  "id": "loyal-beast",
+  "type": 2,
+  "skills": [],
+  "text": "When Loyal Beast deals battle damage to a unit, modify that unit with -1 Attack.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 3,
+  "armor": 1,
+  "health": 3,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

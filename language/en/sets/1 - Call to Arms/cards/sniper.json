@@ -1,0 +1,23 @@
+{
+  "name": "Sniper",
+  "id": "sniper",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Headshot",
+      "type": 1,
+      "cooldown": 0,
+      "text": "Deal 5 damage to a unit."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 5,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "Assassinate",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Berserker's Call",
+  "id": "berserkers-call",
+  "type": 3,
+  "skills": [],
+  "text": "Choose an allied red hero. It battles its enemy neighbors.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Axe"
+}

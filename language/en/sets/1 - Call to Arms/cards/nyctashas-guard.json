@@ -1,0 +1,23 @@
+{
+  "name": "Nyctasha's Guard",
+  "id": "nyctashas-guard",
+  "type": 6,
+  "skills": [
+    {
+      "name": "Nyctasha's Guard",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Move Equipped hero's enemy neighbors to random other lanes."
+    }
+  ],
+  "text": "Equipped hero has +1 Armor.",
+  "manacost": 0,
+  "goldcost": 25,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

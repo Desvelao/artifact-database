@@ -1,0 +1,16 @@
+{
+  "name": "Corrosive Mist",
+  "id": "corrosive-mist",
+  "type": 3,
+  "skills": [],
+  "text": "Condemn all equipped items.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

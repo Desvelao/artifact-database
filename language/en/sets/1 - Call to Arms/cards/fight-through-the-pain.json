@@ -1,0 +1,17 @@
+{
+  "name": "Fight Through the Pain",
+  "id": "fight-through-the-pain",
+  "type": 3,
+  "skills": [],
+  "text": "Give a red hero +2 Armor this round. ⚡ Get initiative.",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "",
+  "getinitiative": true
+}

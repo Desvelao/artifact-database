@@ -1,0 +1,16 @@
+{
+  "name": "Golden Ticket",
+  "id": "golden-ticket",
+  "type": 8,
+  "skills": [],
+  "text": "Get a random item from the Secret Shop.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

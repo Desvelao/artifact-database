@@ -1,0 +1,23 @@
+{
+  "name": "Unsupervised Artillery",
+  "id": "unsupervised-artillery",
+  "type": 4,
+  "skills": [
+    {
+      "name": "Venomous Nature",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies."
+    }
+  ],
+  "text": "",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mystic Flare",
+  "id": "mystic-flare",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 12 damage evenly divided among a unit and its allied neighbors.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Skywrath Mage"
+}

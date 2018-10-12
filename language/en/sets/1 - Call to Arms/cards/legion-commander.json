@@ -1,0 +1,23 @@
+{
+  "name": "Legion Commander",
+  "id": "legion-commander",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Moment of Courage",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Legion Commander has +2 Retaliate."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 6,
+  "armor": 1,
+  "health": 8,
+  "rarity": "u",
+  "signature": "Duel",
+  "signaturefor": ""
+}

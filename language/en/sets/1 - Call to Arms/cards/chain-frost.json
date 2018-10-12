@@ -1,0 +1,17 @@
+{
+  "name": "Chain Frost",
+  "id": "chain-frost",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 3 damage to a unit. Repeat 7 times: 🔄 Deal 3 damage to a random unit to its left or right.\n⚡ Get initiative.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Lich",
+  "getinitiative": true
+}

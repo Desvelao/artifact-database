@@ -1,0 +1,16 @@
+{
+  "name": "Path of the Cunning",
+  "id": "path-of-the-cunning",
+  "type": 4,
+  "skills": [],
+  "text": "After you play a black card, modify a random ally with +1 Siege.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

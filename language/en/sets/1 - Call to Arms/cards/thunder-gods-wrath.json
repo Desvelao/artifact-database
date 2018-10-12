@@ -1,0 +1,16 @@
+{
+  "name": "Thunder God's Wrath",
+  "id": "thunder-gods-wrath",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 4 piercing damage to each enemy hero in all lanes.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Zeus"
+}

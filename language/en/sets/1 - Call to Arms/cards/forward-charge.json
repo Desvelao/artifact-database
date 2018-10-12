@@ -1,0 +1,16 @@
+{
+  "name": "Forward Charge",
+  "id": "forward-charge",
+  "type": 3,
+  "skills": [],
+  "text": "Give allies +2 Siege this round. Allies change their combat target to the unit or tower across from them.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

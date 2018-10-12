@@ -1,0 +1,16 @@
+{
+  "name": "Steel Reinforcement",
+  "id": "steel-reinforcement",
+  "type": 4,
+  "skills": [],
+  "text": "Your tower has +1 Armor.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Mazzie"
+}

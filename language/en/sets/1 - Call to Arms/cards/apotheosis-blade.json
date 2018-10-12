@@ -1,0 +1,23 @@
+{
+  "name": "Apotheosis Blade",
+  "id": "apotheosis-blade",
+  "type": 5,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target."
+    }
+  ],
+  "text": "Equipped hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to.",
+  "manacost": 0,
+  "goldcost": 25,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

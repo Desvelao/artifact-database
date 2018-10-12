@@ -1,0 +1,16 @@
+{
+  "name": "Rumusque Blessing",
+  "id": "rumusque-blessing",
+  "type": 3,
+  "skills": [],
+  "text": "Choose a lane. Modify allies in that lane with +3 Health.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

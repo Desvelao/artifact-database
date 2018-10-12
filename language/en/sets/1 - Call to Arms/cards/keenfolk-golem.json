@@ -1,0 +1,16 @@
+{
+  "name": "Keenfolk Golem",
+  "id": "keenfolk-golem",
+  "type": 2,
+  "skills": [],
+  "text": "Play Effect: Discard your hand.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 13,
+  "armor": 0,
+  "health": 13,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

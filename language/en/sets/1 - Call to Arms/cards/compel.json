@@ -1,0 +1,16 @@
+{
+  "name": "Compel",
+  "id": "compel",
+  "type": 3,
+  "skills": [],
+  "text": "Choose a unit. Choose a combat target for it. Draw a card.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

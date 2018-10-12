@@ -1,0 +1,16 @@
+{
+  "name": "Track",
+  "id": "track",
+  "type": 3,
+  "skills": [],
+  "text": "Give a hero +10 Bounty until it dies.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Bounty Hunter"
+}

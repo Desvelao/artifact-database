@@ -1,0 +1,23 @@
+{
+  "name": "Escape Route",
+  "id": "escape-route",
+  "type": 4,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Return an allied hero to the Fountain."
+    }
+  ],
+  "text": "",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

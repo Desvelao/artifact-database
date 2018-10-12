@@ -1,0 +1,16 @@
+{
+  "name": "Defensive Bloom",
+  "id": "defensive-bloom",
+  "type": 3,
+  "skills": [],
+  "text": "Summon two Roseleaf Walls",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

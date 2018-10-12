@@ -1,0 +1,16 @@
+{
+  "name": "Assault Ladders",
+  "id": "assault-ladders",
+  "type": 4,
+  "skills": [],
+  "text": "Allies deal +2 damage when attacking a tower",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "Sorla Khan"
+}

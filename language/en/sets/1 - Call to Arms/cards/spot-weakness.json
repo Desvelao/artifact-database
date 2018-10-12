@@ -1,0 +1,16 @@
+{
+  "name": "Spot Weakness",
+  "id": "spot-weakness",
+  "type": 3,
+  "skills": [],
+  "text": "Give a hero and its allied neighbors Pierce this round. Draw a card.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

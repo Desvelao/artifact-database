@@ -1,0 +1,16 @@
+{
+  "name": "Glyph of Confusion",
+  "id": "glyph-of-confusion",
+  "type": 4,
+  "skills": [],
+  "text": "Whenever any unit enters this lane, stun it this round.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

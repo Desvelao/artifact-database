@@ -1,0 +1,16 @@
+{
+  "name": "Tyler Estate Censor",
+  "id": "tyler-estate-censor",
+  "type": 2,
+  "skills": [],
+  "text": "The enemy tower has -1 Mana.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 2,
+  "armor": 0,
+  "health": 8,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

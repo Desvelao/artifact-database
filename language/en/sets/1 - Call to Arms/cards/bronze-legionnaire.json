@@ -1,0 +1,16 @@
+{
+  "name": "Bronze Legionnaire",
+  "id": "bronze-legionnaire",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 2,
+  "health": 2,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

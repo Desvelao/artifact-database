@@ -1,0 +1,23 @@
+{
+  "name": "Riley the Cunning",
+  "id": "riley-the-cunning",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Work the Knife",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Riley the Cunning deals +2 damage when attacking a hero or tower."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 7,
+  "armor": 0,
+  "health": 5,
+  "rarity": "b",
+  "signature": "No Accident",
+  "signaturefor": ""
+}

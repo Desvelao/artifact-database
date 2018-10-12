@@ -1,0 +1,16 @@
+{
+  "name": "Mana Drain",
+  "id": "mana-drain",
+  "type": 3,
+  "skills": [],
+  "text": "Give the enemy tower -2 Mana this round and give your tower +2 Mana this round.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "c",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Lion"
+}

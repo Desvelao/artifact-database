@@ -1,0 +1,16 @@
+{
+  "name": "Empower",
+  "id": "empower",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a unit with +3 Attack and +3 Cleave.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Magnus"
+}

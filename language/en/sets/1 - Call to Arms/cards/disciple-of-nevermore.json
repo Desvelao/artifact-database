@@ -1,0 +1,16 @@
+{
+  "name": "Disciple of Nevermore",
+  "id": "disciple-of-nevermore",
+  "type": 2,
+  "skills": [],
+  "text": "Other allies have +2 Attack and -2 Armor.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 4,
+  "armor": -2,
+  "health": 4,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Grazing Shot",
+  "id": "grazing-shot",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 2 damage to a unit in any lane.",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Ravenhook",
+  "id": "ravenhook",
+  "type": 2,
+  "skills": [
+    {
+      "name": "Repossess",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Condemn a random item equipped by the unit blocking Ravenhook, get gold equal to the base cost of that item."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 3,
+  "armor": 0,
+  "health": 6,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

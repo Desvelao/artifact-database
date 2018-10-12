@@ -1,0 +1,16 @@
+{
+  "name": "Spring the Trap",
+  "id": "spring-the-trap",
+  "type": 3,
+  "skills": [],
+  "text": "Summon 2 Centaur Hunters into any lane.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

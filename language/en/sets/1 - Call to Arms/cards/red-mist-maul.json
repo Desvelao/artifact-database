@@ -1,0 +1,16 @@
+{
+  "name": "Red Mist Maul",
+  "id": "red-mist-maul",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack and +5 Siege.",
+  "manacost": 0,
+  "goldcost": 10,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

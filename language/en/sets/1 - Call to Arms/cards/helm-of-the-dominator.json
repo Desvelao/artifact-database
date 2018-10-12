@@ -1,0 +1,23 @@
+{
+  "name": "Helm of the Dominator",
+  "id": "helm-of-the-dominator",
+  "type": 6,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Get control of an enemy creep."
+    }
+  ],
+  "text": "Equipped hero has +3 Armor.",
+  "manacost": 0,
+  "goldcost": 19,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

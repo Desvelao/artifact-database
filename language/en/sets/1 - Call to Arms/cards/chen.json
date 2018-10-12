@@ -1,0 +1,23 @@
+{
+  "name": "Chen",
+  "id": "chen",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Holy Persuasion",
+      "type": 1,
+      "cooldown": 4,
+      "text": "Get control of an enemy creep."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 9,
+  "rarity": "r",
+  "signature": "Hand of God",
+  "signaturefor": ""
+}

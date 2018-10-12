@@ -1,0 +1,16 @@
+{
+  "name": "Grand Melee",
+  "id": "grand-melee",
+  "type": 4,
+  "skills": [],
+  "text": "If there is an allied red hero in this lane, all heroes have +2 Cleave.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

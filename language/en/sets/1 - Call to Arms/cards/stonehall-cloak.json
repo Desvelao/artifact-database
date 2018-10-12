@@ -1,0 +1,16 @@
+{
+  "name": "Stonehall Cloak",
+  "id": "stonehall-cloak",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +4 Health. Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase.",
+  "manacost": 0,
+  "goldcost": 5,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

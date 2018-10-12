@@ -1,0 +1,16 @@
+{
+  "name": "Primal Roar",
+  "id": "primal-roar",
+  "type": 3,
+  "skills": [],
+  "text": "Stun a unit blocking an allied red hero this round. Move that unit's allied neighbors to random other lanes.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Beastmaster"
+}

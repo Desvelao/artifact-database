@@ -1,0 +1,16 @@
+{
+  "name": "Pick a Fight",
+  "id": "pick-a-fight",
+  "type": 3,
+  "skills": [],
+  "text": "Choose an allied hero. It taunts. Choose a combat target for it.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

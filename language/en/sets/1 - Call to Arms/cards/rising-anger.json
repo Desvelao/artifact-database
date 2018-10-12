@@ -1,0 +1,16 @@
+{
+  "name": "Rising Anger",
+  "id": "rising-anger",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +1 Attack.\"",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

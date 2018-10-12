@@ -1,0 +1,16 @@
+{
+  "name": "Keenfolk Plate",
+  "id": "keenfolk-plate",
+  "type": 6,
+  "skills": [],
+  "text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers.",
+  "manacost": 0,
+  "goldcost": 8,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

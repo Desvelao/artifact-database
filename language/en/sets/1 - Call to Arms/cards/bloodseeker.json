@@ -1,0 +1,23 @@
+{
+  "name": "Bloodseeker",
+  "id": "bloodseeker",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Blooth Bath",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Fully heal Bloodseeker after a unit blocking it dies."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 7,
+  "armor": 0,
+  "health": 6,
+  "rarity": "c",
+  "signature": "Blood Rage",
+  "signaturefor": ""
+}

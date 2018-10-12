@@ -1,0 +1,16 @@
+{
+  "name": "Keenfolk Musket",
+  "id": "keenfolk-musket",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack.\n\nActive ■2: Deal 2 damage to a unit.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

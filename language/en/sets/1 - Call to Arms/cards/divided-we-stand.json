@@ -1,0 +1,16 @@
+{
+  "name": "Divided We Stand",
+  "id": "divided-we-stand",
+  "type": 3,
+  "skills": [],
+  "text": "Summon a Meepo",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Meepo"
+}

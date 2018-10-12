@@ -1,0 +1,16 @@
+{
+  "name": "Divine Purpose",
+  "id": "divine-purpose",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a unit with Damage Immunity.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Tidehunter",
+  "id": "tidehunter",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Ravage",
+      "type": 1,
+      "cooldown": 4,
+      "text": "Stun Tidehunter's enemy neighbors this round and each other enemy has a 50% chance of being stunned this round."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 2,
+  "armor": 1,
+  "health": 18,
+  "rarity": "u",
+  "signature": "Kraken Shell",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Temple of War",
+  "id": "temple-of-war",
+  "type": 4,
+  "skills": [],
+  "text": "All equipped heroes have +2 Attack and +1 Armor.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

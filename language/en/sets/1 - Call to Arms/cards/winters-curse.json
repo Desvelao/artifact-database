@@ -1,0 +1,16 @@
+{
+  "name": "Winter's Curse",
+  "id": "winters-curse",
+  "type": 3,
+  "skills": [],
+  "text": "Disarm a unit until end of round. 🔄 That unit's allied neighbors battle it.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "Winter Wyvern"
+}

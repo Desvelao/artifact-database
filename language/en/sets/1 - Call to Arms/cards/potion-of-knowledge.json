@@ -1,0 +1,16 @@
+{
+  "name": "Potion of Knowledge",
+  "id": "potion-of-knowledge",
+  "type": 8,
+  "skills": [],
+  "text": "Draw a card.",
+  "manacost": 0,
+  "goldcost": 5,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

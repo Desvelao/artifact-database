@@ -1,0 +1,16 @@
+{
+  "name": "Time of Triumph",
+  "id": "time-of-triumph",
+  "type": 3,
+  "skills": [],
+  "text": "Modify allied heroes with +4 Attack, +4 Armor, +4 Health, +4 Cleave, +4 Retaliate, and +4 Siege.",
+  "manacost": 8,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

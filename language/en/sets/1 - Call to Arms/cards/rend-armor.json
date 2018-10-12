@@ -1,0 +1,16 @@
+{
+  "name": "Rend Armor",
+  "id": "rend-armor",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a unit with -X Armor where X is its Armor.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

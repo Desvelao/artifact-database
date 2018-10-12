@@ -1,0 +1,16 @@
+{
+  "name": "Axe",
+  "id": "axe",
+  "type": 1,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 7,
+  "armor": 2,
+  "health": 11,
+  "rarity": "r",
+  "signature": "Berserker's Call",
+  "signaturefor": ""
+}

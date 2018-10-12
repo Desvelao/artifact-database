@@ -1,0 +1,16 @@
+{
+  "name": "Duel",
+  "id": "duel",
+  "type": 3,
+  "skills": [],
+  "text": "Choose an allied red hero and another unit. They battle each other.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "Legion Commander"
+}

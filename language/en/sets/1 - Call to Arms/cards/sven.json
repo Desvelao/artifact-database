@@ -1,0 +1,23 @@
+{
+  "name": "Sven",
+  "id": "sven",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Great Cleave",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Sven has +X Cleave where X is equal to half his attack."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 5,
+  "armor": 0,
+  "health": 11,
+  "rarity": "c",
+  "signature": "God's Strength",
+  "signaturefor": ""
+}

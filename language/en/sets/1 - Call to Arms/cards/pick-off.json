@@ -1,0 +1,16 @@
+{
+  "name": "Pick Off",
+  "id": "pick-off",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 4 damage to a unit in any lane.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

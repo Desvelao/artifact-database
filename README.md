@@ -20,7 +20,6 @@ $ npm i Desvelao/artifact-database --save
 - **order** : int : Symbol of the card set.
 - **releaseDate** : DateTime : Date of release for the set
 - **description** : string : Description
-- **cards** : object : Object of cards within this set. (Look below for cards).
 
 # Card Schema
 The name of the card is the key.
@@ -33,13 +32,13 @@ The name of the card is the key.
 - **attack** : int : Attack.
 - **armor** : int : Armor.
 - **health** : int : Health.
-- **goldCost** : int : Cost of buying an item.
+- **goldcost** : int : Cost of buying an item.
 - **skills** : array : An array of all abilities/effects for the Hero/Creep/Improvement/Item card. For creeps and improvements their **Text** has been parsed into an ability so it is easier to search for abilities.
   - **name** : string : Name of the ability.
   - **type** : int : See [contants/skills_types](https://github.com/Desvelao/artifact-database/constants/skills_types.json)
   - **text** : string : The description of the effect.
   - **cooldown** : int : Active affect cooldown.
-- **manaCost** : int : Mana cost for card.
+- **manacost** : int : Mana cost for card.
 - **getInitiative** : boolean : True if this card gives player initiative. If null/false it cannot.
 - **crossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
 - **token** : boolean : If true this card is a token created by another card.

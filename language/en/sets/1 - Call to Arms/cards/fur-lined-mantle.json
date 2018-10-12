@@ -1,0 +1,16 @@
+{
+  "name": "Fur-lined Mantle",
+  "id": "fur-lined-mantle",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +8 Health.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

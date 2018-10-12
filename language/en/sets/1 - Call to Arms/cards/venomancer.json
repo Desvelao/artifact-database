@@ -1,0 +1,23 @@
+{
+  "name": "Venomancer",
+  "id": "venomancer",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Venomous Nature",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Summon a Plague Ward into Venomancer's lane each deployment phase."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 2,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "Sow Venom",
+  "signaturefor": ""
+}

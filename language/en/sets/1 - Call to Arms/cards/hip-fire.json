@@ -1,0 +1,17 @@
+{
+  "name": "Hip Fire",
+  "id": "hip-fire",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 4 damage to a unit. ⚡ Get initiative.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "",
+  "getinitiative": true
+}

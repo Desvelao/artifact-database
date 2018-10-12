@@ -1,0 +1,16 @@
+{
+  "name": "Ogre Conscript",
+  "id": "ogre-conscript",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 7,
+  "armor": 2,
+  "health": 7,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

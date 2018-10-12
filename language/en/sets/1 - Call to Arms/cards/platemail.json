@@ -1,0 +1,16 @@
+{
+  "name": "Platemail",
+  "id": "platemail",
+  "type": 6,
+  "skills": [],
+  "text": "Equipped Hero has +4 Armor.",
+  "manacost": 0,
+  "goldcost": 15,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

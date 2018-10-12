@@ -1,0 +1,16 @@
+{
+  "name": "Oglodi Vandal",
+  "id": "oglodi-vandal",
+  "type": 2,
+  "skills": [],
+  "text": "Play Effect: Deal 4 damage to the enemy tower.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 4,
+  "armor": 0,
+  "health": 4,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

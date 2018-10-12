@@ -1,0 +1,23 @@
+{
+  "name": "Lich",
+  "id": "lich",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Sacrifice",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Condemn another ally and draw a card. If that ally has 6 or more Attack, draw an extra card."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 5,
+  "armor": 0,
+  "health": 9,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

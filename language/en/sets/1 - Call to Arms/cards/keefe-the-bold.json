@@ -1,0 +1,16 @@
+{
+  "name": "Keefe the Bold",
+  "id": "keefe-the-bold",
+  "type": 1,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 6,
+  "armor": 1,
+  "health": 11,
+  "rarity": "b",
+  "signature": "Fighting Instinct",
+  "signaturefor": ""
+}

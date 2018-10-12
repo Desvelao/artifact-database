@@ -1,0 +1,16 @@
+{
+  "name": "Shop Deed",
+  "id": "shop-deed",
+  "type": 8,
+  "skills": [],
+  "text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost.",
+  "manacost": 0,
+  "goldcost": 22,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

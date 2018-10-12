@@ -1,0 +1,16 @@
+{
+  "name": "Foresight",
+  "id": "foresight",
+  "type": 3,
+  "skills": [],
+  "text": "Draw 2 cards.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Town Portal Scroll",
+  "id": "town-portal-scroll",
+  "type": 8,
+  "skills": [],
+  "text": "Return an allied hero to the Fountain.",
+  "manacost": 0,
+  "goldcost": 3,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

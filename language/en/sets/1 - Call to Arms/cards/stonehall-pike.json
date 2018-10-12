@@ -1,0 +1,16 @@
+{
+  "name": "Stonehall Pike",
+  "id": "stonehall-pike",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack. Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase.",
+  "manacost": 0,
+  "goldcost": 6,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Coup de Grace",
+  "id": "coup-de-grace",
+  "type": 3,
+  "skills": [],
+  "text": "Discard a random card. Condemn a hero.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Phantom Assasin"
+}

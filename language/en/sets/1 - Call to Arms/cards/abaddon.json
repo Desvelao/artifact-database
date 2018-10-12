@@ -1,0 +1,23 @@
+{
+  "name": "Abaddon",
+  "id": "abaddon",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Borrowerd Time",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Fully heal Abaddon and give it Damage Immunity this round."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 9,
+  "rarity": "r",
+  "signature": "Aphotic Shield",
+  "signaturefor": ""
+}

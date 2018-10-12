@@ -1,0 +1,23 @@
+{
+  "name": "Blink Dagger",
+  "id": "blink-bagger",
+  "type": 5,
+  "skills": [
+    {
+      "name": "Blink",
+      "type": 1,
+      "cooldown": 0,
+      "text": "Move equipped hero to another lane."
+    }
+  ],
+  "text": "Equipped hero has +2 Attack.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

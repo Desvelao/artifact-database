@@ -1,0 +1,16 @@
+{
+  "name": "Aphotic Shield",
+  "id": "aphotic-shield",
+  "type": 3,
+  "skills": [],
+  "text": "Purge enemy effects from a unit. Give that unit +2 Armor and +2 Retaliate this round.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Abaddon"
+}

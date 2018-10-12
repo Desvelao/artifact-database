@@ -1,0 +1,23 @@
+{
+  "name": "Storm Spirit",
+  "id": "storm-spirit",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Overload",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Give Storm Spirit +2 Attack until the end of its next combat phase after you play a black card in any lane."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 4,
+  "armor": 0,
+  "health": 6,
+  "rarity": "r",
+  "signature": "Ball Lightning",
+  "signaturefor": ""
+}

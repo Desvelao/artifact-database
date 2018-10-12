@@ -1,0 +1,16 @@
+{
+  "name": "...And One For Me",
+  "id": "and-one-for-me",
+  "type": 3,
+  "skills": [],
+  "text": "Choose a hero. Put a base copy of a random item equipped by that hero into your hand.",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

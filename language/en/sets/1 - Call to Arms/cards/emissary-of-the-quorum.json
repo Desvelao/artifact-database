@@ -1,0 +1,23 @@
+{
+  "name": "Emissary of the Quorum",
+  "id": "emissary-of-the-quorum",
+  "type": 2,
+  "skills": [
+    {
+      "name": "Mysteterious benefactor",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Modify allies with +2 attack and +1 health."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 1,
+  "armor": 2,
+  "health": 10,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Thunderhide Alpha",
+  "id": "thunderhide-alpha",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 9,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 25,
+  "armor": 0,
+  "health": 25,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vesture of the Tyrant",
+  "id": "vesture-of-the-tyrant",
+  "type": 6,
+  "skills": [],
+  "text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor.",
+  "manacost": 0,
+  "goldcost": 19,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

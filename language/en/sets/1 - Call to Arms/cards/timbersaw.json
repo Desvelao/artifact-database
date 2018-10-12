@@ -1,0 +1,23 @@
+{
+  "name": "Timbersaw",
+  "id": "timbersaw",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Reactive Armor",
+      "type": 2,
+      "cooldown": 0,
+      "text": "Timbersaw has +1 Armor for each of its attackers."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 0,
+  "health": 11,
+  "rarity": "r",
+  "signature": "Whirling Death",
+  "signaturefor": ""
+}

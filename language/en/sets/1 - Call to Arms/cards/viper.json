@@ -1,0 +1,23 @@
+{
+  "name": "Viper",
+  "id": "viper",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Corrosive Skin",
+      "type": 2,
+      "cooldown": 0,
+      "text": "When a unit deals battle damage to Viper, modify that unit with -1 Attack."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 10,
+  "rarity": "u",
+  "signature": "Viper Strike",
+  "signaturefor": ""
+}

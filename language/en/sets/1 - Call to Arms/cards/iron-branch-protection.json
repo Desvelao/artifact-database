@@ -1,0 +1,16 @@
+{
+  "name": "Iron Branch Protection",
+  "id": "iron-branch-protection",
+  "type": 3,
+  "skills": [],
+  "text": "Give a unit in any lane +3 Armor until end of its next combat phase.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

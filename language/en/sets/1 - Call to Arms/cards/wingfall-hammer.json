@@ -1,0 +1,23 @@
+{
+  "name": "Wingfall Hammer",
+  "id": "wingfall-hammer",
+  "type": 5,
+  "skills": [
+    {
+      "name": "Wingfall Hammer",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack."
+    }
+  ],
+  "text": "Equipped hero has +4 Attack",
+  "manacost": 0,
+  "goldcost": 19,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

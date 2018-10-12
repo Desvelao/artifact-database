@@ -1,0 +1,23 @@
+{
+  "name": "Mercenary Exiles",
+  "id": "mercenary-exiles",
+  "type": 2,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Spend all your gold. Modify Mercenary Exiles with +X Attack and +X Health where X is half the gold spent."
+    }
+  ],
+  "text": "",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 2,
+  "armor": 1,
+  "health": 4,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

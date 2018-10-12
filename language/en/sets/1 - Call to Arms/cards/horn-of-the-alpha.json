@@ -1,0 +1,23 @@
+{
+  "name": "Horn of the Alpha",
+  "id": "horn-of-the-alpha",
+  "type": 7,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Summon a Thunderhide Pack."
+    }
+  ],
+  "text": "Equipped hero has +4 Health.",
+  "manacost": 0,
+  "goldcost": 25,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ristul Emblem",
+  "id": "ristul-emblem",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +4 Health and -2 Armor. The unit blocking equipped hero has -2 Armor.",
+  "manacost": 0,
+  "goldcost": 4,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

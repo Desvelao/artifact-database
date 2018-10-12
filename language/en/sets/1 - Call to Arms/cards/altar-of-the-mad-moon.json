@@ -1,0 +1,16 @@
+{
+  "name": "Altar of the Mad Moon",
+  "id": "altar-of-the-mad-moon",
+  "type": 4,
+  "skills": [],
+  "text": "Allied Melee Creeps have +2 Regeneration.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Hellbear Crippler",
+  "id": "hellbear-crippler",
+  "type": 2,
+  "skills": [],
+  "text": "When Hellbear Crippler deals battle damage to a unit, modify that unit with -1 Attack.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 3,
+  "armor": 0,
+  "health": 3,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

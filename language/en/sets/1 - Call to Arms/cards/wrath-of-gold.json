@@ -1,0 +1,16 @@
+{
+  "name": "Wrath of Gold",
+  "id": "wrath-of-gold",
+  "type": 3,
+  "skills": [],
+  "text": "Spend all your gold. Repeat one time for each gold spent: 🔄 Deal 4 damage to a random ally or enemy.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

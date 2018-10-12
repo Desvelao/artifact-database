@@ -1,0 +1,23 @@
+{
+  "name": "Crystal Maiden",
+  "id": "crystal-maiden",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Arcane Aura",
+      "type": 2,
+      "cooldown": 0,
+      "text": "After the first time an allied spell is played in each lane, restore 2 Mana to the tower in that lane."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 2,
+  "armor": 0,
+  "health": 5,
+  "rarity": "c",
+  "signature": "Frostbite",
+  "signaturefor": ""
+}

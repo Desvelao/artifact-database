@@ -1,0 +1,16 @@
+{
+  "name": "Phase Boots",
+  "id": "phase-boots",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +4 Health.\n\nActive ■2: Swap equipped hero with another ally.",
+  "manacost": 0,
+  "goldcost": 6,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

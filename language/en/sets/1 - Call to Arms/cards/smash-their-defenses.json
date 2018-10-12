@@ -1,0 +1,16 @@
+{
+  "name": "Smash their Defenses",
+  "id": "smash-their-defenses",
+  "type": 3,
+  "skills": [],
+  "text": "Condemn an improvement. 🔄 Draw a card.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

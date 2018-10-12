@@ -1,0 +1,16 @@
+{
+  "name": "Barracks",
+  "id": "barracks",
+  "type": 4,
+  "skills": [],
+  "text": "Summon a Melee Creep into this lane each deployment phase.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "Prellex"
+}

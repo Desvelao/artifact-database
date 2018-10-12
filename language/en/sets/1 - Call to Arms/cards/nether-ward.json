@@ -1,0 +1,16 @@
+{
+  "name": "Nether Ward",
+  "id": "nether-ward",
+  "type": 3,
+  "skills": [],
+  "text": "After opponent plays a spell, deal 3 damage to the enemy tower.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 6,
+  "armor": 0,
+  "health": 9,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Pugna"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Conflagration",
+  "id": "conflagration",
+  "type": 4,
+  "skills": [],
+  "text": "Deal 2 damage to each enemy before the action phase.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

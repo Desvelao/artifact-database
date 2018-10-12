@@ -1,0 +1,16 @@
+{
+  "name": "Healing Salve",
+  "id": "healing-salve",
+  "type": 8,
+  "skills": [],
+  "text": "Heal a unit 6.",
+  "manacost": 0,
+  "goldcost": 3,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

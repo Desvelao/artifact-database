@@ -1,0 +1,23 @@
+{
+  "name": "Rebel Decoy",
+  "id": "rebel-decoy",
+  "type": 2,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Swap Rebel Decoy with another ally."
+    }
+  ],
+  "text": "",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "green",
+  "attack": 2,
+  "armor": 0,
+  "health": 3,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

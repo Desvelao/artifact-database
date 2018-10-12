@@ -1,0 +1,23 @@
+{
+  "name": "Lion",
+  "id": "lion",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Finger of Death",
+      "type": 1,
+      "cooldown": 4,
+      "text": "Deal 8 piercing damage to a unit."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 6,
+  "armor": 0,
+  "health": 5,
+  "rarity": "c",
+  "signature": "Mana Drain",
+  "signaturefor": ""
+}

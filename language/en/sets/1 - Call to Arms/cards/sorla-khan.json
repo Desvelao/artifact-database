@@ -1,0 +1,23 @@
+{
+  "name": "Sorla Khan",
+  "id": "sorla-khan",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Warmonger",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Sorla Khan deals +4 damage when attacking a tower."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 8,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "Assault Ladders",
+  "signaturefor": ""
+}

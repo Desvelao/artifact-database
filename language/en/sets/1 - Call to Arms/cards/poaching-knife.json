@@ -1,0 +1,16 @@
+{
+  "name": "Poaching Knife",
+  "id": "poaching-knife",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack. Get 5 gold after an enemy hero dies. Get 1 gold after an enemy creep dies.",
+  "manacost": 0,
+  "goldcost": 8,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

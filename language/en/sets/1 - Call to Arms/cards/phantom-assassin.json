@@ -1,0 +1,23 @@
+{
+  "name": "Phantom Assassin",
+  "id": "phantom-assassin",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Efficient Killer",
+      "type": 3,
+      "cooldown": 0,
+      "text": "Phantom Assassin deals +4 damage when attacking a hero."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 6,
+  "armor": 0,
+  "health": 8,
+  "rarity": "c",
+  "signature": "Coup de Grace",
+  "signaturefor": ""
+}

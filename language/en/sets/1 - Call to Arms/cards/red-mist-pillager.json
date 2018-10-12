@@ -1,0 +1,16 @@
+{
+  "name": "Red Mist Pillager",
+  "id": "red-mist-pillager",
+  "type": 2,
+  "skills": [],
+  "text": "After the combat phase, if Red Mist Pillager dealt battle damage to a tower this round, summon a Red Mist Pillager.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 0,
+  "health": 2,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

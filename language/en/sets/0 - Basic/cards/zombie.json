@@ -1,0 +1,16 @@
+{
+  "name": "Zombie",
+  "id": "zombie",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 2,
+  "armor": 0,
+  "health": 2,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

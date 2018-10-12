@@ -1,0 +1,16 @@
+{
+  "name": "Combat Training",
+  "id": "combat-training",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a hero with +2 Attack.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Meepo",
+  "id": "meepo",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Poof",
+      "type": 1,
+      "cooldown": 2,
+      "text": "Move Meepo to an allied Meepo's lane. Deal 2 damage to the new enemy neighbors."
+    },
+    {
+      "name": "United we fall",
+      "type": 3,
+      "cooldown": 0,
+      "text": "If Meepo dies, other allied Meepos in every lane also die, ignoring Death Shields."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 4,
+  "armor": 0,
+  "health": 5,
+  "rarity": "r",
+  "signature": "Divided We Stand",
+  "signaturefor": ""
+}

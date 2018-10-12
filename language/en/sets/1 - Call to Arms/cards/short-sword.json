@@ -1,0 +1,16 @@
+{
+  "name": "Short Sword",
+  "id": "short-sword",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack.",
+  "manacost": 0,
+  "goldcost": 3,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

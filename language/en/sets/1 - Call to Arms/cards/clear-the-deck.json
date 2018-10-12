@@ -1,0 +1,16 @@
+{
+  "name": "Clear The Deck",
+  "id": "clear-the-deck",
+  "type": 3,
+  "skills": [],
+  "text": "Give allied heroes +4 Cleave this round.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

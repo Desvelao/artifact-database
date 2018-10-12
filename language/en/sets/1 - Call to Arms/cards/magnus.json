@@ -1,0 +1,16 @@
+{
+  "name": "Magnus",
+  "id": "magnus",
+  "type": 1,
+  "skills": [],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 1,
+  "health": 9,
+  "rarity": "c",
+  "signature": "Empower",
+  "signaturefor": ""
+}

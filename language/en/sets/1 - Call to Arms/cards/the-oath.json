@@ -1,0 +1,16 @@
+{
+  "name": "The Oath",
+  "id": "the-oath",
+  "type": 4,
+  "skills": [],
+  "text": "You can not play spells or creeps while this is the active lane. If there is an allied black hero in this lane, allies have +4 Attack.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Beastmaster",
+  "id": "beastmaster",
+  "type": 1,
+  "skills": [
+    {
+      "name": "Call of the Wild",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Summon a Loyal Beast."
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 5,
+  "armor": 0,
+  "health": 12,
+  "rarity": "c",
+  "signature": "Primal Roar",
+  "signaturefor": ""
+}

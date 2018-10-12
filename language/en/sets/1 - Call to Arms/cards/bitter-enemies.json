@@ -1,0 +1,16 @@
+{
+  "name": "Bitter Enemies",
+  "id": "bitter-enemies",
+  "type": 4,
+  "skills": [],
+  "text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers. (Charges: 3)",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

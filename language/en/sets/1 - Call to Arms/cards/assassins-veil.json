@@ -1,0 +1,23 @@
+{
+  "name": "Assassin's Veil",
+  "id": "assassins-veil",
+  "type": 7,
+  "skills": [
+    {
+      "name": "Tactics",
+      "type": 1,
+      "cooldown": 0,
+      "text": "Choose a combat target for equipped hero."
+    }
+  ],
+  "text": "Equipped hero has +4 Health.",
+  "manacost": 0,
+  "goldcost": 6,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

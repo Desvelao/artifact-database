@@ -1,0 +1,16 @@
+{
+  "name": "Iron Fog Goldmine",
+  "id": "iron-fog-goldmine",
+  "type": 4,
+  "skills": [],
+  "text": "Get 3 gold after the combat phase.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

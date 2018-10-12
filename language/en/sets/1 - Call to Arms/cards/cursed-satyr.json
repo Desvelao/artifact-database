@@ -1,0 +1,16 @@
+{
+  "name": "Cursed Satyr",
+  "id": "cursed-satyr",
+  "type": 2,
+  "skills": [],
+  "text": "Summon a Zombie for your opponent after the combat phase.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 6,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

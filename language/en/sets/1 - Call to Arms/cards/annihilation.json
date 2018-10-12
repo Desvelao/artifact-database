@@ -1,0 +1,16 @@
+{
+  "name": "Annihilation",
+  "id": "annihilation",
+  "type": 3,
+  "skills": [],
+  "text": "Condemn All Units",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": ""
+}

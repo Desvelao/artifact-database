@@ -1,0 +1,16 @@
+{
+  "name": "Enrage",
+  "id": "enrage",
+  "type": 3,
+  "skills": [],
+  "text": "Give a red hero +4 Attack and +4 Armor this round.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Ursa"
+}

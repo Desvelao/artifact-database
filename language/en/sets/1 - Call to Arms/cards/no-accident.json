@@ -1,0 +1,16 @@
+{
+  "name": "No Accident",
+  "id": "no-accident",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 3 damage to a unit.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": "Riley the Cunning"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Lodestone Demolition",
+  "id": "lodestone-demolition",
+  "type": 3,
+  "skills": [],
+  "text": "Deal damage to the enemy tower equal to the total Armor on enemies.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

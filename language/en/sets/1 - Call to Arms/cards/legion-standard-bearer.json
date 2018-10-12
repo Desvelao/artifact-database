@@ -1,0 +1,16 @@
+{
+  "name": "Legion Standard Bearer",
+  "id": "legion-standard-bearer",
+  "type": 2,
+  "skills": [],
+  "text": "Legion Standard Bearer's allied neighbors have +4 Attack.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 6,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

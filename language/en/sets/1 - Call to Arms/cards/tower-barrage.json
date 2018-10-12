@@ -1,0 +1,16 @@
+{
+  "name": "Tower Barrage",
+  "id": "tower-barrage",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 2 damage to each enemy.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

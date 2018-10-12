@@ -1,0 +1,23 @@
+{
+  "name": "Sister of the Veil",
+  "id": "sister-of-the-veil",
+  "type": 2,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Choose a combat target for Sister of the Veil."
+    }
+  ],
+  "text": "",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 4,
+  "armor": 0,
+  "health": 5,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

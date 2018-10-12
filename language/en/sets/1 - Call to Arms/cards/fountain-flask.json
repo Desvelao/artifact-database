@@ -1,0 +1,16 @@
+{
+  "name": "Fountain Flask",
+  "id": "fountain-flask",
+  "type": 8,
+  "skills": [],
+  "text": "Fully heal a unit.",
+  "manacost": 0,
+  "goldcost": 4,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "b",
+  "signature": "",
+  "signaturefor": ""
+}

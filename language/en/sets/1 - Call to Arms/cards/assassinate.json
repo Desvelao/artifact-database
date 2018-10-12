@@ -1,0 +1,16 @@
+{
+  "name": "Assassinate",
+  "id": "assassinate",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 10 piercing damage to a unit in any lane.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "Sniper"
+}

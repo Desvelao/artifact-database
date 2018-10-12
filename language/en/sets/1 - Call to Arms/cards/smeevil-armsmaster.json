@@ -1,0 +1,16 @@
+{
+  "name": "Smeevil Armsmaster",
+  "id": "smeevil-armsmaster",
+  "type": 2,
+  "skills": [],
+  "text": "Play Effect: Modify a random allied hero with +2 Attack.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}
