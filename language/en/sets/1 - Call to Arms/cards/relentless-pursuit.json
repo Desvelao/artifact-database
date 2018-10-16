@@ -1,7 +1,7 @@
 {
   "name": "Relentless Pursuit",
   "id": "relentless-pursuit",
-  "type": 2,
+  "type": 3,
   "skills": [],
   "text": "Choose a unit in another lane. Move a random allied black hero from this lane to that lane. Deal 2 damage to the chosen unit.",
   "manacost": 1,
@@ -12,5 +12,6 @@
   "health": 0,
   "rarity": "r",
   "signature": "",
-  "signaturefor": ""
+  "signaturefor": "",
+  "anylane" : true
 }

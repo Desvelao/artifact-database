@@ -1,0 +1,16 @@
+{
+  "name": "Revtel Signed Ring",
+  "id": "revtel-signed-ring",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +3 Health and -3 Bounty.",
+  "manacost": 0,
+  "goldcost": 4,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,7 +1,7 @@
 {
   "name": "artifact-database",
   "version": "0.0.1",
-  "description": "",
+  "description": "A json database for Artifact (Valve card game based in Dota 2)",
   "main": "info.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

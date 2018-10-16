@@ -1,13 +1,13 @@
 {
-  "name": "Riley the Cunning",
-  "id": "riley-the-cunning",
+  "name": "Debbi the Cunning",
+  "id": "debbi-the-cunning",
   "type": 1,
   "skills": [
     {
       "name": "Work the Knife",
       "type": 3,
       "cooldown": 0,
-      "text": "Riley the Cunning deals +2 damage when attacking a hero or tower."
+      "text": "Debbi the Cunning deals +2 damage when attacking a hero or tower."
     }
   ],
   "text": "",

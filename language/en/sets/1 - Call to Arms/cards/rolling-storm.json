@@ -1,0 +1,16 @@
+{
+  "name": "Rolling Storm",
+  "id": "Rolling Storm",
+  "type": 3,
+  "skills": [],
+  "text": "Deal 2 damage all towers in all lanes.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

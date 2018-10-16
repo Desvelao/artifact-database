@@ -6,7 +6,7 @@
     {
       "name": "Tactics",
       "type": 1,
-      "cooldown": 0,
+      "cooldown": 2,
       "text": "Choose a combat target for equipped hero."
     }
   ],

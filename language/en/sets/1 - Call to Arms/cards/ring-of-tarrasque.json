@@ -1,0 +1,16 @@
+{
+  "name": "Ring of Tarrasque",
+  "id": "ring-of-tarrasque",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +4 Health and +6 Regeneration.",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

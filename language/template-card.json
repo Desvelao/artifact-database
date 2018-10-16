@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "id": "",
+  "type": 1,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 0,
+      "text": ""
+    }
+  ],
+  "text": "",
+  "manacost": 0,
+  "goldcost": 0,
+  "color": "",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

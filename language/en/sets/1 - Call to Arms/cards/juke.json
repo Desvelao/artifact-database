@@ -1,0 +1,16 @@
+{
+  "name": "Juke",
+  "id": "juke",
+  "type": 3,
+  "skills": [],
+  "text": "Swap an ally with one of its allied neighbors.",
+  "manacost": 1,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

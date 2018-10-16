@@ -1,0 +1,16 @@
+{
+  "name": "Caught Unprepared",
+  "id": "caught-unprepared",
+  "type": 3,
+  "skills": [],
+  "text": "Stun a hero until they equip an item.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

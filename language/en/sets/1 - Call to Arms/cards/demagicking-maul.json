@@ -1,0 +1,23 @@
+{
+  "name": "Demagicking Maul",
+  "id": "demagicking-maul",
+  "type": 5,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 1,
+      "text": "Condemn a random enemy improvement, can only be used if the equipped hero isn't blocked."
+    }
+  ],
+  "text": "Equipped hero has +2 Attack.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Defensive Stance",
+  "id": "defensive-stance",
+  "type": 3,
+  "skills": [],
+  "text": "Give a hero +3 Armor this round.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

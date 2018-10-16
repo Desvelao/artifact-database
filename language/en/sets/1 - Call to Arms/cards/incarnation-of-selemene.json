@@ -1,0 +1,16 @@
+{
+  "name": "Incarnation of Selemene",
+  "id": "incarnation-of-selemene",
+  "type": 1,
+  "skills": [],
+  "text": "Fully restore your tower's Mana after you play any card.",
+  "manacost": 9,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 3,
+  "armor": 0,
+  "health": 11,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

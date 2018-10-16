@@ -1,0 +1,16 @@
+{
+  "name": "Whispers of Madness",
+  "id": "whispers-of-madness",
+  "type": 3,
+  "skills": [],
+  "text": "Stun an enemy this round and stun allied heroes in all lanes this round.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": ""
+}

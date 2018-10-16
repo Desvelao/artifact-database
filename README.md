@@ -22,8 +22,8 @@ $ npm i Desvelao/artifact-database --save
 - **description** : string : Description
 
 # Card Schema
-The name of the card is the key.
 
+- **name** : the name of the card.
 - **id** : Id of the card used for matching it with signature/related cards.
 - **type** : int : See [contants/cards_types](https://github.com/Desvelao/artifact-database/constants/cards_types.json).
 - **color** : string : **Black/blUe/Green/Red/Yellow** See [contants/cards_colors](https://github.com/Desvelao/artifact-database/constants/cards_colors.json).
@@ -40,7 +40,7 @@ The name of the card is the key.
   - **cooldown** : int : Active affect cooldown.
 - **manacost** : int : Mana cost for card.
 - **getInitiative** : boolean : True if this card gives player initiative. If null/false it cannot.
-- **crossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
+- **anyLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
 - **token** : boolean : If true this card is a token created by another card.
 - **artist** : string : Artist name.
 - **lore** : string : Lore description for the card.

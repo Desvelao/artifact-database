@@ -1,0 +1,16 @@
+{
+  "name": "Bellow",
+  "id": "bellow",
+  "type": 3,
+  "skills": [],
+  "text": "Move a creep to a random other lane.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": ""
+}

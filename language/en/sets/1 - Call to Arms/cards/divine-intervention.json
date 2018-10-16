@@ -1,0 +1,16 @@
+{
+  "name": "Divine Intervention",
+  "id": "divine-intervention",
+  "type": 3,
+  "skills": [],
+  "text": "Give allies Damage Inmunity this round.",
+  "manacost": 5,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": ""
+}
