@@ -1,0 +1,29 @@
+{
+  "name": "Gust",
+  "id": "gust",
+  "type": 3,
+  "skills": [
+    {
+      "name": "",
+      "type": 1,
+      "cooldown": 0,
+      "text": ""
+    }
+  ],
+  "text": "Silence enemy heroes this round.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Drow Ranger",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

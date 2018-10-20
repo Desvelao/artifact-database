@@ -1,0 +1,22 @@
+{
+  "name": "Defend the Weak",
+  "id": "defend-the-weak",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a unit with \"This unit's allied neigbors have +2 Armor.\"",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

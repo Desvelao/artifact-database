@@ -4,7 +4,8 @@
   "description": "A json database for Artifact (Valve card game based in Dota 2)",
   "main": "info.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
   },
   "keywords": ["Artifact"],
   "author": "Desvelao^^ <iamdesvelao@gmail.com>",

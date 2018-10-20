@@ -1,0 +1,22 @@
+{
+  "name": "Marrowfell Brawler",
+  "id": "marrowfell-brawler",
+  "type": 2,
+  "skills": [],
+  "text": "",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "g",
+  "attack": 4,
+  "armor": 0,
+  "health": 16,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

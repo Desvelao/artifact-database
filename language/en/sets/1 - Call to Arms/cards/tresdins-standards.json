@@ -1,0 +1,22 @@
+{
+  "name": "Tresdin's Standars",
+  "id": "tresdins-standards",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a red hero with \"After you play a red card, give this hero and its called neighbors +1 Attack and +1 Armor this round.\"",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

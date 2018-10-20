@@ -1,0 +1,22 @@
+{
+  "name": "Jasper Daggers",
+  "id": "jasper-daggers",
+  "type": 5,
+  "skills": [],
+  "text": "Equipped hero has +2 Attack and Pierce.",
+  "manacost": 0,
+  "goldcost": 7,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

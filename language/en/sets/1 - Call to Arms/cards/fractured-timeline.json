@@ -1,0 +1,22 @@
+{
+  "name": "Fractured Timeline",
+  "id": "fractured-timeline",
+  "type": 4,
+  "skills": [],
+  "text": "Before the action phase, give a random card in oppponent's hand +1 Lock.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

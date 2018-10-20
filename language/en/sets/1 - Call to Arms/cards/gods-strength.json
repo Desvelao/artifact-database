@@ -1,0 +1,22 @@
+{
+  "name": "Gods Strength",
+  "id": "gods-strength",
+  "type": 3,
+  "skills": [],
+  "text": "Modify a red hero with +4 Attack.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Sven",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

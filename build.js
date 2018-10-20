@@ -1,0 +1,39 @@
+const fs = require('fs')
+const info = require('./info.json')
+
+const folder = __dirname + '/language/'
+
+const objToArray = function(obj){
+  return Object.keys(obj).map(key => ({data : obj[key], key}))
+}
+
+objToArray(info.sets_localiced).forEach(language => {
+  try{
+    const collection = []
+    fs.readdirSync(`${folder}${language.key}/sets`).forEach(setdir => {
+      const setinfo = require(`${folder}${language.key}/sets/${setdir}/set.json`)
+      let set = {}
+      if(!setinfo){return}
+      set = setinfo
+      set.cardsCount = 0
+      set.cards = []
+      fs.readdirSync(`${folder}${language.key}/sets/${setdir}/cards`).forEach(cardfile => {
+        const card = require(`${folder}${language.key}/sets/${setdir}/cards/${cardfile}`)
+        set.cards.push(card)
+        set.cardsCount++
+        // console.log(cardfile);
+      })
+      collection.push(set)
+      // console.log(set);
+    })
+    fs.writeFile(`compiled/${language.key}.json`,JSON.stringify(collection,null,'\t'),(err) => {
+      if(err){
+        console.log('Error on ',language.key, err);
+      }
+    })
+  }catch(err){
+    console.log(err);
+  }
+  // console.log(files);
+  // objToArray(language.data)
+})
