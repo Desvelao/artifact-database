@@ -1977,14 +1977,7 @@
 				"name": "Gust",
 				"id": "gust",
 				"type": 3,
-				"skills": [
-					{
-						"name": "",
-						"type": 1,
-						"cooldown": 0,
-						"text": ""
-					}
-				],
+				"skills": [],
 				"text": "Silence enemy heroes this round.",
 				"manacost": 4,
 				"goldcost": 0,
