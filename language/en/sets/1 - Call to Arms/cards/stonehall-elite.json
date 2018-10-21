@@ -1,0 +1,22 @@
+{
+  "name": "Stonehal Elite",
+  "id": "stonehall-elite",
+  "type": 2,
+  "skills": [],
+  "text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies.",
+  "manacost": 4,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 4,
+  "armor": 2,
+  "health": 2,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

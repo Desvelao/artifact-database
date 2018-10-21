@@ -1,0 +1,22 @@
+{
+  "name": "claszureme-hourglass",
+  "id": "claszureme-hourglass",
+  "type": 7,
+  "skills": [],
+  "text": "Equipped hero has +4 Health. Whenever opponent draws a card, give that card +1 Lock if equipped hero is in any lane.",
+  "manacost": 0,
+  "goldcost": 10,
+  "color": "y",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

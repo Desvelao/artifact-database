@@ -1,0 +1,22 @@
+{
+  "name": "Whirling Death",
+  "id": "whirling-death",
+  "type": 3,
+  "skills": [],
+  "text": "Choose a allied red hero. Deal 2 damage to its enemy neighbors and give them -2 Attack this round.",
+  "manacost": 2,
+  "goldcost": 0,
+  "color": "r",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "Timbersaw",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

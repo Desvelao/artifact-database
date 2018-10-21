@@ -1,0 +1,22 @@
+{
+  "name": "Self Sabotage",
+  "id": "self-sabotage",
+  "type": 3,
+  "skills": [],
+  "text": "Modify two random cards in opponent's hand with \"🔄 Deal 6 damage to a random allied in tower lane.\"",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}

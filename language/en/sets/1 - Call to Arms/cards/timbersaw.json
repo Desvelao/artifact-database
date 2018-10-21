@@ -5,7 +5,7 @@
   "skills": [
     {
       "name": "Reactive Armor",
-      "type": 2,
+      "type": 3,
       "cooldown": 0,
       "text": "Timbersaw has +1 Armor for each of its attackers."
     }

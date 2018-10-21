@@ -1,0 +1,22 @@
+{
+  "name": "Call the Reserves",
+  "id": "call-the-reserves",
+  "type": 3,
+  "skills": [],
+  "text": "Summon two Melee Creeps into any lane.",
+  "manacost": 6,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "u",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : true,
+  "getInitiative" : false,
+  "token" : false
+}

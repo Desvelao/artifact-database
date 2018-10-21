@@ -1,0 +1,22 @@
+{
+  "name": "Ignite",
+  "id": "ignite",
+  "type": 4,
+  "skills": [],
+  "text": "Deal 1 piercing damage to each enemy before the action phase.",
+  "manacost": 3,
+  "goldcost": 0,
+  "color": "u",
+  "attack": 0,
+  "armor": 0,
+  "health": 0,
+  "rarity": "c",
+  "signature": "",
+  "signaturefor": "Ogre Magi",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : true,
+  "getInitiative" : false,
+  "token" : false
+}

@@ -9,13 +9,16 @@ const objToArray = function(obj){
 
 objToArray(info.sets_localiced).forEach(language => {
   try{
-    const collection = []
+    const collection = {}
+    collection.language = language.key
+    collection.keywords = require(`${folder}${language.key}/keywords`)
+    collection.sets = []
     fs.readdirSync(`${folder}${language.key}/sets`).forEach(setdir => {
       const setinfo = require(`${folder}${language.key}/sets/${setdir}/set.json`)
       let set = {}
       if(!setinfo){return}
       set = setinfo
-      set.cardsCount = 0
+      set.totalCards = 0
       set.cards = []
       fs.readdirSync(`${folder}${language.key}/sets/${setdir}/cards`).forEach(cardfile => {
         const card = require(`${folder}${language.key}/sets/${setdir}/cards/${cardfile}`)
@@ -23,7 +26,7 @@ objToArray(info.sets_localiced).forEach(language => {
         set.cardsCount++
         // console.log(cardfile);
       })
-      collection.push(set)
+      collection.sets.push(set)
       // console.log(set);
     })
     fs.writeFile(`compiled/${language.key}.json`,JSON.stringify(collection,null,'\t'),(err) => {

@@ -1,0 +1,22 @@
+{
+  "name": "Assassins Shadow",
+  "id": "assassins-shadow",
+  "type": 2,
+  "skills": [],
+  "text": "Siege 5. Assassin's Shadow has -2 Attack for each ally.",
+  "manacost": 7,
+  "goldcost": 0,
+  "color": "b",
+  "attack": 15,
+  "armor": 0,
+  "health": 5,
+  "rarity": "r",
+  "signature": "",
+  "signaturefor": "",
+  "charges" : 0,
+  "artist" : "",
+  "lore" : "",
+  "anyLane" : false,
+  "getInitiative" : false,
+  "token" : false
+}
