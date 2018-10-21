@@ -10,7 +10,8 @@
   "attack": 6,
   "armor": 0,
   "health": 6,
-  "rarity": "",
+  "rarity": "c",
   "signature": "",
-  "signaturefor": ""
+  "signaturefor": "",
+  "anyLane" : true
 }

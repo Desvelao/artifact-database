@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node build.js",
-    "publish" : "node build.js && gh-pages -b master -d . --remove node_modules"
+    "publish" : "node build.js && gh-pages -b master -d ."
   },
   "keywords": ["Artifact"],
   "author": "Desvelao^^ <iamdesvelao@gmail.com>",
