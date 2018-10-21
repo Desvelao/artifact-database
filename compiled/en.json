@@ -279,7 +279,7 @@
 					"attack": 0,
 					"armor": 0,
 					"health": 0,
-					"rarity": "",
+					"rarity": "r",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -412,7 +412,7 @@
 					"attack": 0,
 					"armor": 0,
 					"health": 0,
-					"rarity": "",
+					"rarity": "u",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -665,7 +665,7 @@
 				},
 				{
 					"name": "Blink Dagger",
-					"id": "blink-bagger",
+					"id": "blink-dagger",
 					"type": 5,
 					"skills": [
 						{
@@ -682,7 +682,7 @@
 					"attack": 0,
 					"armor": 0,
 					"health": 0,
-					"rarity": "",
+					"rarity": "u",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -1166,7 +1166,7 @@
 					"attack": 0,
 					"armor": 0,
 					"health": 0,
-					"rarity": "",
+					"rarity": "c",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -1707,7 +1707,7 @@
 					"attack": 1,
 					"armor": 2,
 					"health": 10,
-					"rarity": "",
+					"rarity": "r",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -2051,7 +2051,7 @@
 					"attack": 0,
 					"armor": 0,
 					"health": 0,
-					"rarity": "",
+					"rarity": "r",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -2686,7 +2686,7 @@
 					"attack": 5,
 					"armor": 0,
 					"health": 9,
-					"rarity": "",
+					"rarity": "r",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -3593,7 +3593,7 @@
 					"attack": 3,
 					"armor": 0,
 					"health": 6,
-					"rarity": "",
+					"rarity": "r",
 					"signature": "",
 					"signaturefor": ""
 				},
@@ -4860,9 +4860,10 @@
 					"attack": 6,
 					"armor": 0,
 					"health": 6,
-					"rarity": "",
+					"rarity": "c",
 					"signature": "",
-					"signaturefor": ""
+					"signaturefor": "",
+					"anyLane": true
 				},
 				{
 					"name": "Tresdin's Standars",
