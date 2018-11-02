@@ -5,6 +5,9 @@ It is a JSON database for Artifact, a card game created by Valve (based in Dota 
 Languages:
 - English (en)
 
+# DEPRECATED
+❗ This repository won't be updated in favor to [ottah/ArtifactDB](https://github.com/ottah/ArtifactDB)
+
 # Install
 
 ```bash

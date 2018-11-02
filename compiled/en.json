@@ -31,7 +31,7 @@
 			"name_id": "basic",
 			"description": "Basic set",
 			"releaseDate": "2018-11-28T00:00:00",
-			"totalCards": 0,
+			"cardsCount": 7,
 			"cards": [
 				{
 					"name": "Hound of War",
@@ -145,8 +145,7 @@
 					"signature": "",
 					"signaturefor": ""
 				}
-			],
-			"cardsCount": null
+			]
 		},
 		{
 			"name": "Call to Arms",
@@ -155,7 +154,7 @@
 			"name_id": "call-to-arms",
 			"description": "First set",
 			"releaseDate": "2018-11-28T00:00:00",
-			"totalCards": 0,
+			"cardsCount": 284,
 			"cards": [
 				{
 					"name": "Abaddon",
@@ -1603,7 +1602,7 @@
 							"name": "Precision Aura",
 							"type": 3,
 							"cooldown": 0,
-							"text": "Other allies i all lanes have +1 Attack"
+							"text": "Other allies in all lanes have +1 Attack"
 						}
 					],
 					"text": "",
@@ -5316,8 +5315,7 @@
 					"signature": "Thunder God's Wrath",
 					"signaturefor": ""
 				}
-			],
-			"cardsCount": null
+			]
 		}
 	]
 }

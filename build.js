@@ -18,7 +18,7 @@ objToArray(info.sets_localiced).forEach(language => {
       let set = {}
       if(!setinfo){return}
       set = setinfo
-      set.totalCards = 0
+      set.cardsCount = 0
       set.cards = []
       fs.readdirSync(`${folder}${language.key}/sets/${setdir}/cards`).forEach(cardfile => {
         const card = require(`${folder}${language.key}/sets/${setdir}/cards/${cardfile}`)
