@@ -6,6 +6,7 @@ Languages:
 - English (en)
 
 # DEPRECATED
+
 ❗ This repository won't be updated in favor to [ottah/ArtifactDB](https://github.com/ottah/ArtifactDB)
 
 # Install
